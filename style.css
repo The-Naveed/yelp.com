@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.autoplay{
+    position: relative;
+}
+
+footer {
+    font-size: 14px;
+    padding: 60px 110px;
+    background-color: #f7f7f7;
+    display: flex;
+    gap: 60px;
+    flex-wrap: wrap;
+    list-style: none;
+    line-height: 12px;
+}
+
+
+
+@media only screen and (max-width:425px) {
+    
+
+    
+
+
+}
